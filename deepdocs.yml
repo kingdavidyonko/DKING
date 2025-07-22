@@ -1,1 +1,7 @@
 Add deepdocs.yml to root
+target:
+  - url: "README.MD"
+
+include:  []
+
+reinit: "a-random-string"
